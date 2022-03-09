@@ -11,6 +11,11 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=doronindmitrii&show_icons=true&locale=en" alt="doronindmitrii" /></p>
 
 <h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://t.me/doronindmitrii" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/80px-Telegram_2019_Logo.svg.png" alt="doronindmitrii" height="40" width="40" /></a>
+<a href="https://instagram.com/doronin_dmitry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="doronin_dmitry" height="40" width="40" /></a>
+
+</p>
 <p align="left">
 </p>
 
