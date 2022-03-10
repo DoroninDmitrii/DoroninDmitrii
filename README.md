@@ -14,6 +14,7 @@
 <p align="center">
 <a href="https://t.me/doronindmitrii" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/80px-Telegram_2019_Logo.svg.png" alt="doronindmitrii" height="40" width="40" /></a>
 <a href="https://instagram.com/doronin_dmitry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="doronin_dmitry" height="40" width="40" /></a>
+<a href="https://wa.me/79602300994" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/865/612/png-clipart-whatsapp-logo-whatsapp-logo-computer-icons-whatsapp-logo-trademark-grass.png" alt="doronin_dmitry" height="40" width="40" /></a>
 
 </p>
 <p align="left">
