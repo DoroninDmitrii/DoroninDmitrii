@@ -17,6 +17,7 @@
 <p align="left">
 </p>
 <h3 align="center">Languages</h3>
-     English (Upper-Intermediate, B2) 
-<p Russian (Native) align="center"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/800px-Flag_of_Russia.svg.png?20120812011549" width="40" height="40" alt="Rissian" /></p>
+     English (Upper-Intermediate, B2)
+     Russian (Native) 
+<p align="center"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nuvola_Russian_flag.svg/640px-Nuvola_Russian_flag.svg.png" width="40" height="40" alt="Rissian" /></p>
 
