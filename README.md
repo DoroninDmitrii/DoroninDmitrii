@@ -18,6 +18,6 @@
 </p>
 <h3 align="center">Languages</h3>
 
-<p align="center"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nuvola_Russian_flag.svg/640px-Nuvola_Russian_flag.svg.png" width="40" height="40" alt="Rissian" img align="center" src="https://www.clipartmax.com/png/small/251-2510157_great-britain-flag-war-transparent-png-amp-svg-vector-english-flag-round.png" width="40" height="40" alt="Rissian"/></p>
+<p align="center"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nuvola_Russian_flag.svg/640px-Nuvola_Russian_flag.svg.png" width="40" height="40" alt="Rissian"/> <img align="center" src="https://www.clipartmax.com/png/small/251-2510157_great-britain-flag-war-transparent-png-amp-svg-vector-english-flag-round.png" width="40" height="40" alt="Rissian"/></p>
 
 
