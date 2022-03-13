@@ -16,7 +16,7 @@
 </p>
 <p align="left">
 </p>
-<h3 align="center">Languages</h3>
+<h3 align="center">Languages:</h3>
 
 <p align="center"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nuvola_Russian_flag.svg/640px-Nuvola_Russian_flag.svg.png" width="40" height="40" alt="Rissian"/> <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAdN0tVO9XLJQ9BIx-a9IILwPCvR44z-xuUQ&usqp=CAU" width="40" height="40" alt="Rissian"/></p>
 
